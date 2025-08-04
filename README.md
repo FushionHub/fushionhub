@@ -1,8 +1,10 @@
 # Hi there 👋
 
-## 👨‍💻 A team passionate about AI, Web3 & Digital Empowerment  
-Empowering communities and businesses through technology.  
-Based in Nigeria, building global impact solutions.
+## At **FushionHub Technology**, we are driven by a mission to empower communities and businesses through innovative digital solutions.  
+We are proudly based in Nigeria and focused on building globally impactful tools with a local-first mindset.
+
+I’m **Jamachi Mauricennadi**, founder and CEO of FushionHub Technology. With years of experience in digital innovation, software development, and community tech advocacy, I lead a team committed to transforming African societies through **AI**, **Web3**, and **open-source collaboration**.  
+My professional journey is grounded in creating accessible, sustainable, and forward-thinking technology that uplifts creators, developers, and entrepreneurs across the continent.
 
 ---
 
@@ -33,12 +35,6 @@ Based in Nigeria, building global impact solutions.
 - 👥 Followers  
 - 👁️ Profile Views  
 - 🌟 GitHub Star 2023  
-- ## 🏅 Top Contributed Repo
-
-<div align="center" style="margin-top: 40px; width: 100%;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=FushionHub&limit=5&theme=dark&combine_all_yearly_contributions=true" style="width: 100%; max-width: 100%;" />
-</div>
-
 
 ### 💼 What We Do
 
