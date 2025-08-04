@@ -1,4 +1,3 @@
-
 # Hi there 👋
 
 ## 👨‍💻 A team passionate about AI, Web3 & Digital Empowerment  
@@ -8,15 +7,14 @@ Based in Nigeria, building global impact solutions.
 ---
 
 ### 🔗 Quick Links  
-- 🌐 [Website](https://fushionhub.online)  
-- 🐦 [Twitter](https://twitter.com/FushionHub)  
-- 💬 [Discord](https://discord.gg/fushionhub)
+- 🌐 [Website](https://me.fushionhubai.com.ng)  
+- 🐦 [Twitter](https://x.com/FushionDevHub)  
 
 ---
 
 ### 🏅 Highlights
 - ![committers.top badge](https://user-badge.committers.top/nigeria_private/fushionhub.svg)
-- ![Trophy](https://github-profile-trophy.vercel.app/?username=FushionHub&theme=gruvbox&no-frame=true&column=10)
+- ![Trophy](https://github-profile-trophy.vercel.app/?username=FushionHub&theme=gruvbox&no-frame=true&column=12)
 
 ---
 
