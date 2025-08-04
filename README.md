@@ -8,8 +8,8 @@ Based in Nigeria, building global impact solutions.
 ---
 
 ### 🔗 Quick Links  
-- 🌐 [Website](https://fushionhub.online)  
-- 🐦 [Twitter](https://twitter.com/FushionHub)  
+- 🌐 [Website](https://me.fushionhubai.com.ng)  
+- 🐦 [Twitter](https://x.com/FushionDevHub)  
 - 💬 [Discord](https://discord.gg/fushionhub)
 
 ---
