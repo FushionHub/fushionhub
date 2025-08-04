@@ -8,8 +8,8 @@ Based in Nigeria, building global impact solutions.
 ---
 
 ### 🔗 Quick Links  
-- 🌐 [Website](https://me.fushionhubai.com.ng)  
-- 🐦 [Twitter](https://x.com/FushionDevHub)  
+- 🌐 [Website](https://fushionhub.online)  
+- 🐦 [Twitter](https://twitter.com/FushionHub)  
 - 💬 [Discord](https://discord.gg/fushionhub)
 
 ---
@@ -67,7 +67,74 @@ React · Python · JavaScript · C++ · Webpack · MySQL · TypeScript · AWS ·
 
 ### 🧰 Languages and Technologies
 
-React · Bootstrap · CSS3 · Electron · HTML5 · JavaScript · C++ · C · AWS · Docker · TypeScript · PHP · MySQL · MongoDB · Python · Nginx · Express.js · Kubernetes · Bash · Raspberry Pi · Elasticsearch · Flask · XAMPP · Chart.js · Linux · Sass · Jenkins · Git · RabbitMQ · Gatsby · Firebase · Arduino · WordPress · GraphQL · Ansible · Node.js · GCP · Angular · C# · .NET · Laravel · Redis · Redux · OpenCV · Keras · MariaDB · Tailwind CSS · Material UI · Java · Styled Components · Vue.js · Android · Django · CodeIgniter · PostgreSQL · TensorFlow · jQuery · PowerShell · Next.js · Azure · PyTorch · Figma · GitLab · Jest
+
+## 💻 Core Technologies
+
+```txt
+React
+Bootstrap
+CSS3
+Electron
+HTML5
+JavaScript
+C++
+C
+AWS
+Docker
+TypeScript
+PHP
+MySQL
+MongoDB
+Python
+Nginx
+Express.js
+Kubernetes
+Bash
+Raspberry Pi
+Elasticsearch
+Flask
+XAMPP
+Chart.js
+Linux
+Sass
+Jenkins
+Git
+RabbitMQ
+Gatsby
+Firebase
+Arduino
+WordPress
+GraphQL
+Ansible
+Node.js
+GCP
+Angular
+C#
+.NET
+Laravel
+Redis
+Redux
+OpenCV
+Keras
+MariaDB
+Tailwind CSS
+Material UI
+Java
+Styled Components
+Vue.js
+Android
+Django
+CodeIgniter
+PostgreSQL
+TensorFlow
+jQuery
+PowerShell
+Next.js
+Azure
+PyTorch
+Figma
+GitLab
+Jest
 
 ---
 
@@ -108,9 +175,3 @@ React · Bootstrap · CSS3 · Electron · HTML5 · JavaScript · C++ · C · AWS
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FushionHub&theme=react-dark&hide_border=true&area=true" />
 </p>
-
----
-
-### 🏷️ Holopin Badges
-
-[![@fushionhub's Holopin board](https://holopin.me/fushionhub)](https://holopin.io/@fushionhub)
