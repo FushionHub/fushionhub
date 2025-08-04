@@ -71,6 +71,38 @@ React · Bootstrap · CSS3 · Electron · HTML5 · JavaScript · C++ · C · AWS
 
 ---
 
+## 🧰 Languages & Tools (Icons)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" title="Webpack" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" title="Tailwind" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" title="jQuery" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" title="WordPress" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" title="Sass" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" title="GraphQL" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />
+</p>
+
+
 ### 📈 Activity Graph
 
 <p align="center">
