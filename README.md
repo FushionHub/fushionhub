@@ -25,7 +25,6 @@ Based in Nigeria, building global impact solutions.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=FushionHub&theme=gotham&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=FushionHub&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,python,java,cpp,cs,vue,react,nodejs,mongodb,mysql,postgresql,django,laravel&perline=9" height="60" />
 </p>
 
 ---
