@@ -67,76 +67,10 @@ React · Python · JavaScript · C++ · Webpack · MySQL · TypeScript · AWS ·
 
 ### 🧰 Languages and Technologies
 
-
 ## 💻 Core Technologies
 
-```txt
-React
-Bootstrap
-CSS3
-Electron
-HTML5
-JavaScript
-C++
-C
-AWS
-Docker
-TypeScript
-PHP
-MySQL
-MongoDB
-Python
-Nginx
-Express.js
-Kubernetes
-Bash
-Raspberry Pi
-Elasticsearch
-Flask
-XAMPP
-Chart.js
-Linux
-Sass
-Jenkins
-Git
-RabbitMQ
-Gatsby
-Firebase
-Arduino
-WordPress
-GraphQL
-Ansible
-Node.js
-GCP
-Angular
-C#
-.NET
-Laravel
-Redis
-Redux
-OpenCV
-Keras
-MariaDB
-Tailwind CSS
-Material UI
-Java
-Styled Components
-Vue.js
-Android
-Django
-CodeIgniter
-PostgreSQL
-TensorFlow
-jQuery
-PowerShell
-Next.js
-Azure
-PyTorch
-Figma
-GitLab
-Jest
+React · Bootstrap · CSS3 · Electron · HTML5 · JavaScript · C++ · C · AWS · Docker · TypeScript · PHP · MySQL · MongoDB · Python · Nginx · Express.js · Kubernetes · Bash · Raspberry Pi · Elasticsearch · Flask · XAMPP · Chart.js · Linux · Sass · Jenkins · Git · RabbitMQ · Gatsby · Firebase · Arduino · WordPress · GraphQL · Ansible · Node.js · GCP · Angular · C# · .NET · Laravel · Redis · Redux · OpenCV · Keras · MariaDB · Tailwind CSS · Material UI · Java · Styled Components · Vue.js · Android · Django · CodeIgniter · PostgreSQL · TensorFlow · jQuery · PowerShell · Next.js · Azure · PyTorch · Figma · GitLab · Jest
 
----
 
 ## 🧰 Languages & Tools (Icons)
 <p align="center">
