@@ -35,10 +35,12 @@ Based in Nigeria, building global impact solutions.
 - 👥 Followers  
 - 👁️ Profile Views  
 - 🌟 GitHub Star 2023  
-- 🔝 Top Contributed Repo  
-  ![](https://github-contributor-stats.vercel.app/api?username=FushionHub&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- ## 🏅 Top Contributed Repo
 
----
+<div align="center" style="margin-top: 40px; width: 100%;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=FushionHub&limit=5&theme=dark&combine_all_yearly_contributions=true" style="width: 100%; max-width: 100%;" />
+</div>
+
 
 ### 💼 What We Do
 
