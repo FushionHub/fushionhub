@@ -1,59 +1,57 @@
-make similar
+
 ### Hi there 👋
-[![](https://github.com/ishandutta2007/ishandutta2007/blob/main/chat.svg)](https://twitter.com/ishandutta2007)
+[![](https://github.com/FushionHub/FushionHub/blob/main/chat.svg)](https://twitter.com/FushionHub)
 
- <h3 align="center">A techie passionate about AI & Blockchain</h3>
- <h4 align="center"> One of Top 10 active github users from India [https://committers.top/india_private] </h4>
- <h4 align="center"> One of Top 30 Spoj users from India [SPOJ](https://www.spoj.com/ranks/users/IN/) </h4>
- <h4 align="center"> One of Top 500 stackoverflow users from India [https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country#resultSets] </h4>
- <h4 align="center"> One of Top 600 math.stackexchange users from India [https://data.stackexchange.com/math/query/53058/top-users-by-country] </h4>
+<h3 align="center">A team passionate about AI, Web3 & Digital Empowerment</h3>
+<h4 align="center"> Empowering communities and businesses through technology. </h4>
+<h4 align="center"> Based in Nigeria, building global impact solutions. </h4>
 
-[![committers.top badge](https://user-badge.committers.top/india_private/vinayakkulkarni.svg)](https://user-badge.committers.top/india_private/vinayakkulkarni)[![trophy](https://github-profile-trophy.vercel.app/?username=ishandutta2007)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- ![Ishan's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&theme=dark&show_icons=true) -->
+[![committers.top badge](https://user-badge.committers.top/nigeria_private/fushionhub.svg)](https://user-badge.committers.top/nigeria_private/fushionhub)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FushionHub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
-  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishandutta2007&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+  <a href="https://github.com/FushionHub/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=FushionHub&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="fushionhub" /></picture></a>
+  <a href="https://github.com/FushionHub/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=FushionHub&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
 </p>
 
-
-<br>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ishandutta2007)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FushionHub)](https://git.io/streak-stats)
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ishandutta2007"/></a>
-  <a href="https://github.com/ishandutta2007?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ishandutta2007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/FushionHub?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/FushionHub"/></a>
+  <a href="https://github.com/FushionHub?tab=followers">
+    <img alt="followers" title="Follow us on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/FushionHub?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-- 😄 I have interests in HPC/Generative AI/Web3/RPA
-- 🔭 I’m currently working on ChatGPT integrations
-- 🌱 I’m currently learning Langchain and Mediachain
-- 👯 I’m looking to collaborate on ChatGPT/AI/Blockchain
-
+- 😄 We focus on AI, Web Development, and Community Tech
+- 🚀 Currently building SaaS and open tools for African creators
+- 🌟 Looking to collaborate on impactful tech projects
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ishan+Dutta" alt="Ishan" /></a>
-  <a href="https://github.com/ishandutta2007/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=ChatGPT/AI/Blockchain;20%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=FushionHub+Technology" alt="FushionHub" /></a>
+  <a href="https://github.com/FushionHub/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=AI+%7C+Web3+%7C+Community+Tech;Open+Source+Builders;Innovating+for+Africa&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/ishandutta2007"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/jc4xtF58Ve" alt="Discord" title="Sinularity Labs Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/ishandutta2007"><img width="32px" alt="Dev.to" title="ishandutta2007 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/ishandutta2007"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a href="https://twitter.com/FushionHub"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+       
+  <a href="https://discord.gg/fushionhub" alt="Discord" title="FushionHub Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+       
+  <a href="https://fushionhub.online"><img width="32px" alt="Website" title="FushionHub Website" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/FushionHub?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/FushionHub?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/FushionHub?tab=followers">
+    <img alt="followers" title="Follow us on Github" src="https://custom-icon-badges.demolab.com/github/followers/FushionHub?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/FushionHub/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/fushionhub-profile-views"/></a>
+</p>
+
+<p align="center">
+  <a href="https://stars.github.com/profiles/FushionHub/">
+    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
 </p>
 
 <br/>
