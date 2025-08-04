@@ -44,12 +44,6 @@ My professional journey is grounded in creating accessible, sustainable, and for
 
 ---
 
-### 🌠 Top Sponsors
-
-| $5+/month |
-|-----------|
-| [Typesense](https://github.com/typesense) |
-
 [More about our sponsorship tiers](https://github.com/sponsors/FushionHub)
 
 ---
