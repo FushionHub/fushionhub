@@ -29,13 +29,6 @@ My professional journey is grounded in creating accessible, sustainable, and for
 
 ---
 
-### ✨ Profile Metrics
-
-- ⭐ Total Stars  
-- 👥 Followers  
-- 👁️ Profile Views  
-- 🌟 GitHub Star 2023  
-
 ### 💼 What We Do
 
 - 😄 Focus on AI, Web Development, and Community Tech  
