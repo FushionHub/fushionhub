@@ -21,10 +21,17 @@ My professional journey is grounded in creating accessible, sustainable, and for
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=FushionHub&theme=gotham&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=FushionHub&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FushionHub&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FushionHub&theme=gotham&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
