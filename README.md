@@ -28,14 +28,6 @@ My professional journey is grounded in creating accessible, sustainable, and for
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FushionHub&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FushionHub&theme=gotham&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FushionHub&theme=github-compact&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
