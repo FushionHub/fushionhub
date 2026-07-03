@@ -43,7 +43,7 @@ My professional journey is grounded in creating accessible, sustainable, and for
 
 ### 🛠️ My Favorite Tools
 
-React · Python · JavaScript · C++ · Webpack · MySQL · TypeScript · AWS · C# · Django · GitHub · Git · Laravel · HTML5 · CSS · Bootstrap · Tailwind · jQuery · MongoDB · Node.js · PHP · VS Code · WordPress · Vue · Sass · GraphQL · PostgreSQL
+React · JavaScript · Webpack · MySQL · TypeScript · AWS · GitHub · Git · Laravel · HTML5 · CSS · Bootstrap · Tailwind · jQuery · MongoDB · Node.js · PHP · VS Code · WordPress · Vue · Sass · GraphQL · PostgreSQL
 
 ---
 
@@ -51,21 +51,17 @@ React · Python · JavaScript · C++ · Webpack · MySQL · TypeScript · AWS ·
 
 ## 💻 Core Technologies
 
-React · Bootstrap · CSS3 · Electron · HTML5 · JavaScript · C++ · C · AWS · Docker · TypeScript · PHP · MySQL · MongoDB · Python · Nginx · Express.js · Kubernetes · Bash · Raspberry Pi · Elasticsearch · Flask · XAMPP · Chart.js · Linux · Sass · Jenkins · Git · RabbitMQ · Gatsby · Firebase · Arduino · WordPress · GraphQL · Ansible · Node.js · GCP · Angular · C# · .NET · Laravel · Redis · Redux · OpenCV · Keras · MariaDB · Tailwind CSS · Material UI · Java · Styled Components · Vue.js · Android · Django · CodeIgniter · PostgreSQL · TensorFlow · jQuery · PowerShell · Next.js · Azure · PyTorch · Figma · GitLab · Jest
+React · Bootstrap · CSS3 · Electron · HTML5 · JavaScript · C · AWS · Docker · TypeScript · PHP · MySQL · MongoDB · Python · Nginx · Express.js · Kubernetes · Bash · Raspberry Pi · Elasticsearch  · XAMPP · Chart.js · Linux · Sass · Jenkins · Git · RabbitMQ · Gatsby · Firebase · Arduino · WordPress · GraphQL · Ansible · Node.js · GCP · Angular · C# · .NET · Laravel · Redis · Redux · OpenCV · Keras · MariaDB · Tailwind CSS · Material UI · Java · Styled Components · Vue.js · Android · Django · CodeIgniter · PostgreSQL · TensorFlow · jQuery · PowerShell · Next.js · Azure · Figma · GitLab · Jest
 
 
 ## 🧰 Languages & Tools (Icons)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" title="Webpack" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel" width="48" height="48" />
