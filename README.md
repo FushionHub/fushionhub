@@ -16,8 +16,6 @@ My professional journey is grounded in creating accessible, sustainable, and for
 
 ### 🏅 Highlights
 - ![committers.top badge](https://user-badge.committers.top/nigeria_private/fushionhub.svg)
-- ![Trophy](https://github-profile-trophy.vercel.app/?username=FushionHub&theme=gruvbox&no-frame=true&column=12)
-
 ---
 
 ## 📊 GitHub Stats
