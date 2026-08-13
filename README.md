@@ -22,7 +22,6 @@ My professional journey is grounded in creating accessible, sustainable, and for
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=FushionHub&theme=gotham&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FushionHub&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
