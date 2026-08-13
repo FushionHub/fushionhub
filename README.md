@@ -21,7 +21,7 @@ My professional journey is grounded in creating accessible, sustainable, and for
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=FushionHub&theme=gotham&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=FushionHub&theme=gotham&hide_border=true" alt="GitHub Streak" width="100%" style="objective-fit: cover" />
 </p>
 
 <p align="center">
