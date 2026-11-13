@@ -159,9 +159,6 @@
 <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48"/>
@@ -186,7 +183,6 @@
 <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="48" height="48"/>
 
 </div>
 
@@ -196,8 +192,7 @@
 
 <div align="center">
 
-[![committers.top badge](https://user-badge.committers.top/nigeria_private/fushionhub.svg)](https://committers.top)
-
+[![committers.top badge](https://user-badge.committers.top/nigeria_private/fushionhub.svg)](https://user-badge.committers.top/nigeria_private/fushionhub)
 </div>
 
 ---
